@@ -1,7 +1,7 @@
 # NLP-Sentiment-Classification
 
 # Project Overview
-This project aims to perform sentiment analysis and clustering on tweets related to political figures, specifically Donald Trump and Joe Biden, during the 2024 election period. The primary goal is to analyze public sentiment using various machine learning and NLP techniques, and to visualize trends over time.
+This project aims to perform sentiment analysis and clustering on tweets related to political figures, specifically Donald Trump and Joe Biden, during the 2020 election period. The primary goal is to analyze public sentiment using various machine learning and NLP techniques, and to visualize trends over time.
 
 # Introduction
 This project involves using Natural Language Processing (NLP) techniques to classify and analyze tweets mentioning Donald Trump and Joe Biden. The tasks include:
@@ -22,3 +22,6 @@ Accuracy:
 * Programming Languages: Python
 * Libraries: SpaCy, Scikit-learn, Matplotlib, Seaborn, Pandas, Numpy
 * Tools: Jupyter Notebook
+
+  # The source of the data is:
+https://www.kaggle.com/datasets/subho117/nlp-sentiment-analysis-for-us-election?select=hashtag_joebiden.csv
