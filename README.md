@@ -23,5 +23,5 @@ Accuracy:
 * Libraries: SpaCy, Scikit-learn, Matplotlib, Seaborn, Pandas, Numpy
 * Tools: Jupyter Notebook
 
-  # The source of the data is:
+  # The source of the data:
 https://www.kaggle.com/datasets/subho117/nlp-sentiment-analysis-for-us-election?select=hashtag_joebiden.csv
